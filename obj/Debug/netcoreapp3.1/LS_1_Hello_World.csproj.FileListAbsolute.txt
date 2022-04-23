@@ -1,0 +1,14 @@
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\bin\Debug\netcoreapp3.1\LS_1_Hello_World.exe
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\bin\Debug\netcoreapp3.1\LS_1_Hello_World.deps.json
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\bin\Debug\netcoreapp3.1\LS_1_Hello_World.runtimeconfig.json
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\bin\Debug\netcoreapp3.1\LS_1_Hello_World.runtimeconfig.dev.json
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\bin\Debug\netcoreapp3.1\LS_1_Hello_World.dll
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\bin\Debug\netcoreapp3.1\LS_1_Hello_World.pdb
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\obj\Debug\netcoreapp3.1\LS_1_Hello_World.csproj.AssemblyReference.cache
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\obj\Debug\netcoreapp3.1\LS_1_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\obj\Debug\netcoreapp3.1\LS_1_Hello_World.AssemblyInfoInputs.cache
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\obj\Debug\netcoreapp3.1\LS_1_Hello_World.AssemblyInfo.cs
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\obj\Debug\netcoreapp3.1\LS_1_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\obj\Debug\netcoreapp3.1\LS_1_Hello_World.dll
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\obj\Debug\netcoreapp3.1\LS_1_Hello_World.pdb
+C:\Users\benwo\source\repos\Teaching\Lessons\LS_1_Hello_World\obj\Debug\netcoreapp3.1\LS_1_Hello_World.genruntimeconfig.cache
